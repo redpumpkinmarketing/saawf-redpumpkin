@@ -1,0 +1,1727 @@
+{
+  "meal-packing": {
+    "source": "487777483_29225170137097015_1387788270855773688_n.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "Community members packing meals together",
+    "caption": "Meal packing, from the organisation’s photo collection.",
+    "variants": [
+      {
+        "file": "photo-meal-packing-480.webp",
+        "width": 480,
+        "bytes": 36350
+      },
+      {
+        "file": "photo-meal-packing-960.webp",
+        "width": 960,
+        "bytes": 95540
+      },
+      {
+        "file": "photo-meal-packing-1600.webp",
+        "width": 1600,
+        "bytes": 178302
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "community-together": {
+    "source": "486675299_29138650335748996_6826191611885022080_n.jpg",
+    "width": 1600,
+    "height": 900,
+    "alt": "Community members gathered around a food-packing table",
+    "caption": "People coming together for community food support.",
+    "variants": [
+      {
+        "file": "photo-community-together-480.webp",
+        "width": 480,
+        "bytes": 34328
+      },
+      {
+        "file": "photo-community-together-960.webp",
+        "width": 960,
+        "bytes": 108280
+      },
+      {
+        "file": "photo-community-together-1600.webp",
+        "width": 1600,
+        "bytes": 208536
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "shared-kitchen": {
+    "source": "485723871_29101290149485015_4164497505603607151_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Community members preparing food together in a kitchen",
+    "caption": "Preparing food together.",
+    "variants": [
+      {
+        "file": "photo-shared-kitchen-480.webp",
+        "width": 480,
+        "bytes": 23700
+      },
+      {
+        "file": "photo-shared-kitchen-960.webp",
+        "width": 960,
+        "bytes": 59796
+      },
+      {
+        "file": "photo-shared-kitchen-1600.webp",
+        "width": 1600,
+        "bytes": 116950
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "food-preparation": {
+    "source": "486526635_29138607219086641_2337791470094836297_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Community members working together to prepare food",
+    "caption": "Care begins with preparation.",
+    "variants": [
+      {
+        "file": "photo-food-preparation-480.webp",
+        "width": 480,
+        "bytes": 24660
+      },
+      {
+        "file": "photo-food-preparation-960.webp",
+        "width": 960,
+        "bytes": 75838
+      },
+      {
+        "file": "photo-food-preparation-1600.webp",
+        "width": 1600,
+        "bytes": 152262
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "packed-meals": {
+    "source": "487465444_29216841417929887_1706118895982490163_n.jpg",
+    "width": 1040,
+    "height": 780,
+    "alt": "Prepared meal parcels arranged together",
+    "caption": "Meal parcels ready for distribution.",
+    "variants": [
+      {
+        "file": "photo-packed-meals-480.webp",
+        "width": 480,
+        "bytes": 53210
+      },
+      {
+        "file": "photo-packed-meals-960.webp",
+        "width": 960,
+        "bytes": 175320
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "community-outreach": {
+    "source": "492783148_29520772027536823_2013965900180352678_n.jpg",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Volunteers sharing refreshments with people on a street",
+    "caption": "Community participation in the field.",
+    "variants": [
+      {
+        "file": "photo-community-outreach-480.webp",
+        "width": 480,
+        "bytes": 26972
+      },
+      {
+        "file": "photo-community-outreach-960.webp",
+        "width": 960,
+        "bytes": 78926
+      },
+      {
+        "file": "photo-community-outreach-1600.webp",
+        "width": 1600,
+        "bytes": 148288
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "sharing-refreshments": {
+    "source": "493059383_29520772044203488_243747149846094715_n.jpg",
+    "width": 1920,
+    "height": 1080,
+    "alt": "Community volunteers serving refreshments outdoors",
+    "caption": "Sharing refreshments with the community.",
+    "variants": [
+      {
+        "file": "photo-sharing-refreshments-480.webp",
+        "width": 480,
+        "bytes": 33826
+      },
+      {
+        "file": "photo-sharing-refreshments-960.webp",
+        "width": 960,
+        "bytes": 94952
+      },
+      {
+        "file": "photo-sharing-refreshments-1600.webp",
+        "width": 1600,
+        "bytes": 174864
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "roti-contribution": {
+    "source": "497474861_29766923662921657_609370201415373568_n.jpg",
+    "width": 958,
+    "height": 1280,
+    "alt": "A woman holding a stack of prepared rotis",
+    "caption": "A contribution of rotis. The image carries a 2024 date stamp; it is not presented as a 2020 photograph.",
+    "variants": [
+      {
+        "file": "photo-roti-contribution-480.webp",
+        "width": 480,
+        "bytes": 28164
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "team-conversation": {
+    "source": "505086700_10162670811347556_4001370083236882269_n.jpg",
+    "width": 2048,
+    "height": 1153,
+    "alt": "People seated together for a discussion around a table",
+    "caption": "A conversation from the organisation’s photo collection.",
+    "variants": [
+      {
+        "file": "photo-team-conversation-480.webp",
+        "width": 480,
+        "bytes": 17948
+      },
+      {
+        "file": "photo-team-conversation-960.webp",
+        "width": 960,
+        "bytes": 54136
+      },
+      {
+        "file": "photo-team-conversation-1600.webp",
+        "width": 1600,
+        "bytes": 114634
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "food-supplies": {
+    "source": "505399854_10162670811492556_4707742170269482433_n.jpg",
+    "width": 1600,
+    "height": 756,
+    "alt": "Food supplies arranged together for community use",
+    "caption": "Food supplies from the organisation’s photo collection.",
+    "variants": [
+      {
+        "file": "photo-food-supplies-480.webp",
+        "width": 480,
+        "bytes": 26916
+      },
+      {
+        "file": "photo-food-supplies-960.webp",
+        "width": 960,
+        "bytes": 107700
+      },
+      {
+        "file": "photo-food-supplies-1600.webp",
+        "width": 1600,
+        "bytes": 229656
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "preparing-a-meal": {
+    "source": "505571580_10162671286262556_1410439503332225053_n.jpg",
+    "width": 1280,
+    "height": 576,
+    "alt": "A community member cooking beside a large pot",
+    "caption": "Preparing a meal for sharing.",
+    "variants": [
+      {
+        "file": "photo-preparing-a-meal-480.webp",
+        "width": 480,
+        "bytes": 17408
+      },
+      {
+        "file": "photo-preparing-a-meal-960.webp",
+        "width": 960,
+        "bytes": 49126
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "volunteers-together": {
+    "source": "487482364_29184543614493001_3139190700916178940_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Community members gathered around prepared food",
+    "caption": "The people behind community participation.",
+    "variants": [
+      {
+        "file": "photo-volunteers-together-480.webp",
+        "width": 480,
+        "bytes": 29068
+      },
+      {
+        "file": "photo-volunteers-together-960.webp",
+        "width": 960,
+        "bytes": 98038
+      },
+      {
+        "file": "photo-volunteers-together-1600.webp",
+        "width": 1600,
+        "bytes": 216832
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "food-parcels": {
+    "source": "503356220_30064848736462480_7741183558245995635_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "Packed portions of food and fruit arranged together",
+    "caption": "Food and fruit packed for sharing.",
+    "variants": [
+      {
+        "file": "photo-food-parcels-480.webp",
+        "width": 480,
+        "bytes": 41550
+      },
+      {
+        "file": "photo-food-parcels-960.webp",
+        "width": 960,
+        "bytes": 124918
+      },
+      {
+        "file": "photo-food-parcels-1600.webp",
+        "width": 1600,
+        "bytes": 257512
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-001": {
+    "source": "472457424_28299784126302292_4193923219964570248_n.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "A community member holding a prepared food parcel",
+    "caption": "A community member holding a prepared food parcel.",
+    "variants": [
+      {
+        "file": "photo-archive-001-480.webp",
+        "width": 480,
+        "bytes": 18976
+      },
+      {
+        "file": "photo-archive-001-1280.webp",
+        "width": 1280,
+        "bytes": 65866
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-002": {
+    "source": "475948553_28589817593965609_5325151270616671177_n.jpg",
+    "width": 918,
+    "height": 1341,
+    "alt": "Two people beside a container of prepared food",
+    "caption": "Two people beside a container of prepared food.",
+    "variants": [
+      {
+        "file": "photo-archive-002-480.webp",
+        "width": 480,
+        "bytes": 33598
+      },
+      {
+        "file": "photo-archive-002-918.webp",
+        "width": 918,
+        "bytes": 87696
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-003": {
+    "source": "481080357_932642572412640_5220725419341941954_n.jpg",
+    "width": 1600,
+    "height": 1197,
+    "alt": "People distributing meal parcels outdoors at night",
+    "caption": "People distributing meal parcels outdoors at night.",
+    "variants": [
+      {
+        "file": "photo-archive-003-480.webp",
+        "width": 480,
+        "bytes": 25942
+      },
+      {
+        "file": "photo-archive-003-1280.webp",
+        "width": 1280,
+        "bytes": 129688
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-004": {
+    "source": "484957835_29082631904684173_2189555816368641621_n.jpg",
+    "width": 1422,
+    "height": 640,
+    "alt": "A community member offering food beside a roadside bench",
+    "caption": "A community member offering food beside a roadside bench.",
+    "variants": [
+      {
+        "file": "photo-archive-004-480.webp",
+        "width": 480,
+        "bytes": 23852
+      },
+      {
+        "file": "photo-archive-004-1280.webp",
+        "width": 1280,
+        "bytes": 112972
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-005": {
+    "source": "485158846_29103739565906740_1917003404789472137_n.jpg",
+    "width": 1248,
+    "height": 1280,
+    "alt": "A person holding a box of supplies",
+    "caption": "A person holding a box of supplies.",
+    "variants": [
+      {
+        "file": "photo-archive-005-480.webp",
+        "width": 480,
+        "bytes": 24476
+      },
+      {
+        "file": "photo-archive-005-1248.webp",
+        "width": 1248,
+        "bytes": 99882
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-006": {
+    "source": "485184087_29092658223681541_7679382789668762798_n.jpg",
+    "width": 1422,
+    "height": 640,
+    "alt": "Prepared meal parcels arranged on a table",
+    "caption": "Prepared meal parcels arranged on a table.",
+    "variants": [
+      {
+        "file": "photo-archive-006-480.webp",
+        "width": 480,
+        "bytes": 23482
+      },
+      {
+        "file": "photo-archive-006-1280.webp",
+        "width": 1280,
+        "bytes": 119054
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-007": {
+    "source": "485361770_29082632184684145_3782543585245521741_n.jpg",
+    "width": 1422,
+    "height": 640,
+    "alt": "A person handing food to someone seated outside",
+    "caption": "A person handing food to someone seated outside.",
+    "variants": [
+      {
+        "file": "photo-archive-007-480.webp",
+        "width": 480,
+        "bytes": 12626
+      },
+      {
+        "file": "photo-archive-007-1280.webp",
+        "width": 1280,
+        "bytes": 54262
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-008": {
+    "source": "485372020_29092641990349831_9193376478871451209_n.jpg",
+    "width": 1422,
+    "height": 640,
+    "alt": "Fruit and prepared food arranged together",
+    "caption": "Fruit and prepared food arranged together.",
+    "variants": [
+      {
+        "file": "photo-archive-008-480.webp",
+        "width": 480,
+        "bytes": 22358
+      },
+      {
+        "file": "photo-archive-008-1280.webp",
+        "width": 1280,
+        "bytes": 100424
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-009": {
+    "source": "485388168_29101289939485036_5475624773177603345_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Community members sharing food beside a vehicle",
+    "caption": "Community members sharing food beside a vehicle.",
+    "variants": [
+      {
+        "file": "photo-archive-009-480.webp",
+        "width": 480,
+        "bytes": 23096
+      },
+      {
+        "file": "photo-archive-009-1280.webp",
+        "width": 1280,
+        "bytes": 128044
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-011": {
+    "source": "485670453_29101290076151689_6598564153151944058_n.jpg",
+    "width": 922,
+    "height": 2048,
+    "alt": "Pots containing prepared food and rotis",
+    "caption": "Pots containing prepared food and rotis.",
+    "variants": [
+      {
+        "file": "photo-archive-011-480.webp",
+        "width": 480,
+        "bytes": 69572
+      },
+      {
+        "file": "photo-archive-011-922.webp",
+        "width": 922,
+        "bytes": 165866
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-012": {
+    "source": "485696740_29116569007957129_8986591670924738917_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "A large pot of prepared food",
+    "caption": "A large pot of prepared food.",
+    "variants": [
+      {
+        "file": "photo-archive-012-480.webp",
+        "width": 480,
+        "bytes": 15396
+      },
+      {
+        "file": "photo-archive-012-1280.webp",
+        "width": 1280,
+        "bytes": 58854
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-014": {
+    "source": "485736537_29101290176151679_2425606654076980436_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "People gathered in a public waiting area",
+    "caption": "People gathered in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-014-480.webp",
+        "width": 480,
+        "bytes": 20620
+      },
+      {
+        "file": "photo-archive-014-1280.webp",
+        "width": 1280,
+        "bytes": 90052
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-015": {
+    "source": "485788947_29112614868352543_684540742661912999_n.jpg",
+    "width": 1422,
+    "height": 640,
+    "alt": "People gathered beside public benches",
+    "caption": "People gathered beside public benches.",
+    "variants": [
+      {
+        "file": "photo-archive-015-480.webp",
+        "width": 480,
+        "bytes": 23186
+      },
+      {
+        "file": "photo-archive-015-1280.webp",
+        "width": 1280,
+        "bytes": 93254
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-017": {
+    "source": "486105699_29101290119485018_6977463292286295109_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Community members beside a vehicle outdoors",
+    "caption": "Community members beside a vehicle outdoors.",
+    "variants": [
+      {
+        "file": "photo-archive-017-480.webp",
+        "width": 480,
+        "bytes": 21228
+      },
+      {
+        "file": "photo-archive-017-1280.webp",
+        "width": 1280,
+        "bytes": 103364
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-019": {
+    "source": "486509829_29138624765751553_578075289451862157_n.jpg",
+    "width": 1422,
+    "height": 640,
+    "alt": "People preparing food beside cooking vessels",
+    "caption": "People preparing food beside cooking vessels.",
+    "variants": [
+      {
+        "file": "photo-archive-019-480.webp",
+        "width": 480,
+        "bytes": 18036
+      },
+      {
+        "file": "photo-archive-019-1280.webp",
+        "width": 1280,
+        "bytes": 80528
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-023": {
+    "source": "486865623_29140323882248308_6491956443522921378_n.jpg",
+    "width": 1280,
+    "height": 720,
+    "alt": "People working together around cooking pots",
+    "caption": "People working together around cooking pots.",
+    "variants": [
+      {
+        "file": "photo-archive-023-480.webp",
+        "width": 480,
+        "bytes": 27076
+      },
+      {
+        "file": "photo-archive-023-1280.webp",
+        "width": 1280,
+        "bytes": 116968
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-024": {
+    "source": "487285564_29201226156158080_7752022537924308296_n.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": "Three people gathered indoors",
+    "caption": "Three people gathered indoors.",
+    "variants": [
+      {
+        "file": "photo-archive-024-480.webp",
+        "width": 480,
+        "bytes": 41370
+      },
+      {
+        "file": "photo-archive-024-960.webp",
+        "width": 960,
+        "bytes": 100716
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-025": {
+    "source": "487342227_29201744296106266_8802066498125574106_n.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "People packing meals beside large cooking vessels",
+    "caption": "People packing meals beside large cooking vessels.",
+    "variants": [
+      {
+        "file": "photo-archive-025-480.webp",
+        "width": 480,
+        "bytes": 32906
+      },
+      {
+        "file": "photo-archive-025-1280.webp",
+        "width": 1280,
+        "bytes": 114330
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-029": {
+    "source": "487787921_29213603981586964_7008883293381720815_n.jpg",
+    "width": 720,
+    "height": 1280,
+    "alt": "People standing together indoors",
+    "caption": "People standing together indoors.",
+    "variants": [
+      {
+        "file": "photo-archive-029-480.webp",
+        "width": 480,
+        "bytes": 35796
+      },
+      {
+        "file": "photo-archive-029-720.webp",
+        "width": 720,
+        "bytes": 54070
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-030": {
+    "source": "487955121_29201212989492730_8635652513977167329_n.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "Two community members beside scooters at night",
+    "caption": "Two community members beside scooters at night.",
+    "variants": [
+      {
+        "file": "photo-archive-030-480.webp",
+        "width": 480,
+        "bytes": 23816
+      },
+      {
+        "file": "photo-archive-030-1280.webp",
+        "width": 1280,
+        "bytes": 93920
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-031": {
+    "source": "487976919_29201213176159378_7091769573375702896_n.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "Community members sharing food in a public waiting area",
+    "caption": "Community members sharing food in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-031-480.webp",
+        "width": 480,
+        "bytes": 34442
+      },
+      {
+        "file": "photo-archive-031-1280.webp",
+        "width": 1280,
+        "bytes": 113056
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-032": {
+    "source": "487977672_29227793313501364_4965181898635372418_n.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "People preparing and packing food in a kitchen",
+    "caption": "People preparing and packing food in a kitchen.",
+    "variants": [
+      {
+        "file": "photo-archive-032-480.webp",
+        "width": 480,
+        "bytes": 40628
+      },
+      {
+        "file": "photo-archive-032-1280.webp",
+        "width": 1280,
+        "bytes": 162616
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-033": {
+    "source": "488062546_29250782907869071_8281517358960619319_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "People sitting together in a public space",
+    "caption": "People sitting together in a public space.",
+    "variants": [
+      {
+        "file": "photo-archive-033-480.webp",
+        "width": 480,
+        "bytes": 17312
+      },
+      {
+        "file": "photo-archive-033-1280.webp",
+        "width": 1280,
+        "bytes": 65654
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-034": {
+    "source": "488208483_29224853510462011_7863507886118126188_n.jpg",
+    "width": 1280,
+    "height": 960,
+    "alt": "Packed meals arranged in a basket",
+    "caption": "Packed meals arranged in a basket.",
+    "variants": [
+      {
+        "file": "photo-archive-034-480.webp",
+        "width": 480,
+        "bytes": 55482
+      },
+      {
+        "file": "photo-archive-034-1280.webp",
+        "width": 1280,
+        "bytes": 215416
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-035": {
+    "source": "489022377_29298102143137147_5685528473383311035_n.jpg",
+    "width": 1152,
+    "height": 864,
+    "alt": "Community members distributing parcels in a public waiting area",
+    "caption": "Community members distributing parcels in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-035-480.webp",
+        "width": 480,
+        "bytes": 25350
+      },
+      {
+        "file": "photo-archive-035-1152.webp",
+        "width": 1152,
+        "bytes": 78988
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-036": {
+    "source": "489083582_29292199627060732_975172505708014941_n.jpg",
+    "width": 922,
+    "height": 2048,
+    "alt": "A community member packing portions of food",
+    "caption": "A community member packing portions of food.",
+    "variants": [
+      {
+        "file": "photo-archive-036-480.webp",
+        "width": 480,
+        "bytes": 63412
+      },
+      {
+        "file": "photo-archive-036-922.webp",
+        "width": 922,
+        "bytes": 156222
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-037": {
+    "source": "489150277_29293732900240738_8790155638315401118_n.jpg",
+    "width": 1040,
+    "height": 780,
+    "alt": "A person preparing food beside a large cooking pot",
+    "caption": "A person preparing food beside a large cooking pot.",
+    "variants": [
+      {
+        "file": "photo-archive-037-480.webp",
+        "width": 480,
+        "bytes": 21462
+      },
+      {
+        "file": "photo-archive-037-1040.webp",
+        "width": 1040,
+        "bytes": 53436
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-038": {
+    "source": "490446676_29361255916821769_3488492271293033083_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "A community member sharing food in a public area",
+    "caption": "A community member sharing food in a public area.",
+    "variants": [
+      {
+        "file": "photo-archive-038-480.webp",
+        "width": 480,
+        "bytes": 15674
+      },
+      {
+        "file": "photo-archive-038-1280.webp",
+        "width": 1280,
+        "bytes": 68802
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-039": {
+    "source": "490495606_29338674419079919_8786789008086177740_n.jpg",
+    "width": 1422,
+    "height": 640,
+    "alt": "A community member sharing food beside a bus",
+    "caption": "A community member sharing food beside a bus.",
+    "variants": [
+      {
+        "file": "photo-archive-039-480.webp",
+        "width": 480,
+        "bytes": 15516
+      },
+      {
+        "file": "photo-archive-039-1280.webp",
+        "width": 1280,
+        "bytes": 60084
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-040": {
+    "source": "490727708_29350590547888306_3323597851691462294_n.jpg",
+    "width": 1600,
+    "height": 720,
+    "alt": "People arranging food at a table",
+    "caption": "People arranging food at a table.",
+    "variants": [
+      {
+        "file": "photo-archive-040-480.webp",
+        "width": 480,
+        "bytes": 18618
+      },
+      {
+        "file": "photo-archive-040-1280.webp",
+        "width": 1280,
+        "bytes": 79520
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-041": {
+    "source": "492151135_29493081436972549_1635709577714848798_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "People seated beside a pavement railing",
+    "caption": "People seated beside a pavement railing.",
+    "variants": [
+      {
+        "file": "photo-archive-041-480.webp",
+        "width": 480,
+        "bytes": 20594
+      },
+      {
+        "file": "photo-archive-041-1280.webp",
+        "width": 1280,
+        "bytes": 73370
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-042": {
+    "source": "492520020_29507753788838647_3327962651881700916_n.jpg",
+    "width": 1040,
+    "height": 780,
+    "alt": "Community members standing beside scooters",
+    "caption": "Community members standing beside scooters.",
+    "variants": [
+      {
+        "file": "photo-archive-042-480.webp",
+        "width": 480,
+        "bytes": 18500
+      },
+      {
+        "file": "photo-archive-042-1040.webp",
+        "width": 1040,
+        "bytes": 49202
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-045": {
+    "source": "493074942_29520772054203487_2919908117410211021_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "Community members handing out refreshments on a street",
+    "caption": "Community members handing out refreshments on a street.",
+    "variants": [
+      {
+        "file": "photo-archive-045-480.webp",
+        "width": 480,
+        "bytes": 37370
+      },
+      {
+        "file": "photo-archive-045-1280.webp",
+        "width": 1280,
+        "bytes": 213078
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-046": {
+    "source": "493080717_29520772264203466_5764431215934767606_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "People gathered around refreshments outdoors",
+    "caption": "People gathered around refreshments outdoors.",
+    "variants": [
+      {
+        "file": "photo-archive-046-480.webp",
+        "width": 480,
+        "bytes": 27366
+      },
+      {
+        "file": "photo-archive-046-1280.webp",
+        "width": 1280,
+        "bytes": 138666
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-047": {
+    "source": "493267709_29520772074203485_6358398069616502222_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "Community members standing together indoors",
+    "caption": "Community members standing together indoors.",
+    "variants": [
+      {
+        "file": "photo-archive-047-480.webp",
+        "width": 480,
+        "bytes": 30616
+      },
+      {
+        "file": "photo-archive-047-1280.webp",
+        "width": 1280,
+        "bytes": 146368
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-048": {
+    "source": "493277954_29537404902540202_7335463612805071640_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Community members gathered beside food parcels",
+    "caption": "Community members gathered beside food parcels.",
+    "variants": [
+      {
+        "file": "photo-archive-048-480.webp",
+        "width": 480,
+        "bytes": 24260
+      },
+      {
+        "file": "photo-archive-048-1280.webp",
+        "width": 1280,
+        "bytes": 116264
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-050": {
+    "source": "493524211_29520772250870134_7403612893576646642_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "A group standing beside a vehicle",
+    "caption": "A group standing beside a vehicle.",
+    "variants": [
+      {
+        "file": "photo-archive-050-480.webp",
+        "width": 480,
+        "bytes": 24664
+      },
+      {
+        "file": "photo-archive-050-1280.webp",
+        "width": 1280,
+        "bytes": 144270
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-051": {
+    "source": "494023679_29566570319623660_2469901612088896014_n.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": "A community member handing food to a seated person",
+    "caption": "A community member handing food to a seated person.",
+    "variants": [
+      {
+        "file": "photo-archive-051-480.webp",
+        "width": 480,
+        "bytes": 49322
+      },
+      {
+        "file": "photo-archive-051-960.webp",
+        "width": 960,
+        "bytes": 117866
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-052": {
+    "source": "494587695_29591910287089663_3784503999703623850_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "People sharing food in a public waiting area",
+    "caption": "People sharing food in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-052-480.webp",
+        "width": 480,
+        "bytes": 19766
+      },
+      {
+        "file": "photo-archive-052-1280.webp",
+        "width": 1280,
+        "bytes": 81072
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-053": {
+    "source": "494677096_29591249857155706_6836922938290748776_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "People gathered with food in a public space",
+    "caption": "People gathered with food in a public space.",
+    "variants": [
+      {
+        "file": "photo-archive-053-480.webp",
+        "width": 480,
+        "bytes": 16632
+      },
+      {
+        "file": "photo-archive-053-1280.webp",
+        "width": 1280,
+        "bytes": 61352
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-054": {
+    "source": "495136571_29591249800489045_5378312291029485114_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Community members distributing food in a public waiting area",
+    "caption": "Community members distributing food in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-054-480.webp",
+        "width": 480,
+        "bytes": 22514
+      },
+      {
+        "file": "photo-archive-054-1280.webp",
+        "width": 1280,
+        "bytes": 101500
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-055": {
+    "source": "495535499_29737904492490241_5207238407980229961_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Bowls of vegetables prepared for cooking",
+    "caption": "Bowls of vegetables prepared for cooking.",
+    "variants": [
+      {
+        "file": "photo-archive-055-480.webp",
+        "width": 480,
+        "bytes": 16322
+      },
+      {
+        "file": "photo-archive-055-1280.webp",
+        "width": 1280,
+        "bytes": 60948
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-056": {
+    "source": "495660150_29737919949155362_4040007916879059586_n.jpg",
+    "width": 2048,
+    "height": 922,
+    "alt": "Community members sharing food outdoors",
+    "caption": "Community members sharing food outdoors.",
+    "variants": [
+      {
+        "file": "photo-archive-056-480.webp",
+        "width": 480,
+        "bytes": 18278
+      },
+      {
+        "file": "photo-archive-056-1280.webp",
+        "width": 1280,
+        "bytes": 75368
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-057": {
+    "source": "496292092_29761500776797279_7898938442574330217_n.jpg",
+    "width": 720,
+    "height": 1280,
+    "alt": "A cooking pot being stirred",
+    "caption": "A cooking pot being stirred.",
+    "variants": [
+      {
+        "file": "photo-archive-057-480.webp",
+        "width": 480,
+        "bytes": 26872
+      },
+      {
+        "file": "photo-archive-057-720.webp",
+        "width": 720,
+        "bytes": 42066
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-060": {
+    "source": "501444404_30042940315319989_1442088533657195615_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "People gathered in a public waiting area",
+    "caption": "People gathered in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-060-480.webp",
+        "width": 480,
+        "bytes": 30128
+      },
+      {
+        "file": "photo-archive-060-1280.webp",
+        "width": 1280,
+        "bytes": 144240
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-061": {
+    "source": "502441899_30033872229560131_6150948736586881048_n.jpg",
+    "width": 1536,
+    "height": 2048,
+    "alt": "Chopped vegetables ready for cooking",
+    "caption": "Chopped vegetables ready for cooking.",
+    "variants": [
+      {
+        "file": "photo-archive-061-480.webp",
+        "width": 480,
+        "bytes": 41370
+      },
+      {
+        "file": "photo-archive-061-1280.webp",
+        "width": 1280,
+        "bytes": 161664
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-062": {
+    "source": "502524109_30066985552915465_9219090774389017457_n.jpg",
+    "width": 1152,
+    "height": 532,
+    "alt": "Community members sharing food in a public waiting area",
+    "caption": "Community members sharing food in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-062-480.webp",
+        "width": 480,
+        "bytes": 17380
+      },
+      {
+        "file": "photo-archive-062-1152.webp",
+        "width": 1152,
+        "bytes": 54306
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-063": {
+    "source": "502582253_30033894056224615_297779759129865793_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "A community member handing out food beside a railing",
+    "caption": "A community member handing out food beside a railing.",
+    "variants": [
+      {
+        "file": "photo-archive-063-480.webp",
+        "width": 480,
+        "bytes": 30614
+      },
+      {
+        "file": "photo-archive-063-1280.webp",
+        "width": 1280,
+        "bytes": 139036
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-064": {
+    "source": "503108097_30056758877271466_8422451085897467695_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "People seated with food in a public waiting area",
+    "caption": "People seated with food in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-064-480.webp",
+        "width": 480,
+        "bytes": 29718
+      },
+      {
+        "file": "photo-archive-064-1280.webp",
+        "width": 1280,
+        "bytes": 142928
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-065": {
+    "source": "503177178_30034311742849513_3768470486568364413_n.jpg",
+    "width": 1536,
+    "height": 2048,
+    "alt": "A community member preparing meal parcels",
+    "caption": "A community member preparing meal parcels.",
+    "variants": [
+      {
+        "file": "photo-archive-065-480.webp",
+        "width": 480,
+        "bytes": 51090
+      },
+      {
+        "file": "photo-archive-065-1280.webp",
+        "width": 1280,
+        "bytes": 220668
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-066": {
+    "source": "503274137_30060522923561728_7838501466635164498_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "Two people seated together with food",
+    "caption": "Two people seated together with food.",
+    "variants": [
+      {
+        "file": "photo-archive-066-480.webp",
+        "width": 480,
+        "bytes": 29000
+      },
+      {
+        "file": "photo-archive-066-1280.webp",
+        "width": 1280,
+        "bytes": 133594
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-067": {
+    "source": "503275557_30073827695564584_239914175176820490_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "A scooter loaded with supplies",
+    "caption": "A scooter loaded with supplies.",
+    "variants": [
+      {
+        "file": "photo-archive-067-480.webp",
+        "width": 480,
+        "bytes": 22538
+      },
+      {
+        "file": "photo-archive-067-1280.webp",
+        "width": 1280,
+        "bytes": 155712
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-068": {
+    "source": "503356120_10162651257457556_4606868381400096679_n.jpg",
+    "width": 1536,
+    "height": 2048,
+    "alt": "Prepared food portions arranged in containers",
+    "caption": "Prepared food portions arranged in containers.",
+    "variants": [
+      {
+        "file": "photo-archive-068-480.webp",
+        "width": 480,
+        "bytes": 45874
+      },
+      {
+        "file": "photo-archive-068-1280.webp",
+        "width": 1280,
+        "bytes": 171196
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-070": {
+    "source": "503494865_30072370072377013_2356217813413362862_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "A community member handing food to people seated on a bench",
+    "caption": "A community member handing food to people seated on a bench.",
+    "variants": [
+      {
+        "file": "photo-archive-070-480.webp",
+        "width": 480,
+        "bytes": 26740
+      },
+      {
+        "file": "photo-archive-070-1280.webp",
+        "width": 1280,
+        "bytes": 123454
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-071": {
+    "source": "504019981_10162670811407556_7986628345040846405_n.jpg",
+    "width": 2048,
+    "height": 1540,
+    "alt": "Community members together outdoors at night",
+    "caption": "Community members together outdoors at night.",
+    "variants": [
+      {
+        "file": "photo-archive-071-480.webp",
+        "width": 480,
+        "bytes": 17446
+      },
+      {
+        "file": "photo-archive-071-1280.webp",
+        "width": 1280,
+        "bytes": 85000
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-072": {
+    "source": "504892312_10162670811187556_7532647078799392489_n.jpg",
+    "width": 1280,
+    "height": 576,
+    "alt": "Community members beside vehicles on a street",
+    "caption": "Community members beside vehicles on a street.",
+    "variants": [
+      {
+        "file": "photo-archive-072-480.webp",
+        "width": 480,
+        "bytes": 20130
+      },
+      {
+        "file": "photo-archive-072-1280.webp",
+        "width": 1280,
+        "bytes": 69252
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-075": {
+    "source": "505498019_10162671286527556_4293438683380425308_n.jpg",
+    "width": 960,
+    "height": 540,
+    "alt": "A group standing together outdoors",
+    "caption": "A group standing together outdoors.",
+    "variants": [
+      {
+        "file": "photo-archive-075-480.webp",
+        "width": 480,
+        "bytes": 25450
+      },
+      {
+        "file": "photo-archive-075-960.webp",
+        "width": 960,
+        "bytes": 73684
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "People & participation"
+  },
+  "archive-077": {
+    "source": "557634426_31941940778753257_6818814219060752478_n.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": "A community member working beside food containers",
+    "caption": "A community member working beside food containers.",
+    "variants": [
+      {
+        "file": "photo-archive-077-480.webp",
+        "width": 480,
+        "bytes": 35714
+      },
+      {
+        "file": "photo-archive-077-960.webp",
+        "width": 960,
+        "bytes": 88586
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Food preparation"
+  },
+  "archive-079": {
+    "source": "557638014_31941940842086584_1257970938234656213_n.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "A person seated on a bench with food",
+    "caption": "A person seated on a bench with food.",
+    "variants": [
+      {
+        "file": "photo-archive-079-480.webp",
+        "width": 480,
+        "bytes": 24544
+      },
+      {
+        "file": "photo-archive-079-960.webp",
+        "width": 960,
+        "bytes": 52968
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-080": {
+    "source": "558206710_31943050165308985_1585605496833327736_n.jpg",
+    "width": 1536,
+    "height": 2048,
+    "alt": "Community members sharing food in a public waiting area",
+    "caption": "Community members sharing food in a public waiting area.",
+    "variants": [
+      {
+        "file": "photo-archive-080-480.webp",
+        "width": 480,
+        "bytes": 32274
+      },
+      {
+        "file": "photo-archive-080-1280.webp",
+        "width": 1280,
+        "bytes": 136904
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-081": {
+    "source": "558948579_31944702655143736_6654650340249978345_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "Community members handing out food at night",
+    "caption": "Community members handing out food at night.",
+    "variants": [
+      {
+        "file": "photo-archive-081-480.webp",
+        "width": 480,
+        "bytes": 20448
+      },
+      {
+        "file": "photo-archive-081-1280.webp",
+        "width": 1280,
+        "bytes": 91986
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-082": {
+    "source": "565931510_32228132933467372_6029943732998891556_n.jpg",
+    "width": 2048,
+    "height": 1536,
+    "alt": "Two people seated with food parcels",
+    "caption": "Two people seated with food parcels.",
+    "variants": [
+      {
+        "file": "photo-archive-082-480.webp",
+        "width": 480,
+        "bytes": 19422
+      },
+      {
+        "file": "photo-archive-082-1280.webp",
+        "width": 1280,
+        "bytes": 72016
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-085": {
+    "source": "599128094_33071582162455774_6665468366302642699_n.jpg",
+    "width": 576,
+    "height": 1280,
+    "alt": "Community members distributing food in a public area",
+    "caption": "Community members distributing food in a public area.",
+    "variants": [
+      {
+        "file": "photo-archive-085-480.webp",
+        "width": 480,
+        "bytes": 52134
+      },
+      {
+        "file": "photo-archive-085-576.webp",
+        "width": 576,
+        "bytes": 66746
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-086": {
+    "source": "599404956_33071582045789119_991366456416954091_n.jpg",
+    "width": 576,
+    "height": 1280,
+    "alt": "Community members distributing food at night",
+    "caption": "Community members distributing food at night.",
+    "variants": [
+      {
+        "file": "photo-archive-086-480.webp",
+        "width": 480,
+        "bytes": 96196
+      },
+      {
+        "file": "photo-archive-086-576.webp",
+        "width": 576,
+        "bytes": 126056
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-087": {
+    "source": "599959529_33071582425789081_5216077911176161100_n.jpg",
+    "width": 1280,
+    "height": 576,
+    "alt": "People gathered along a pavement with food",
+    "caption": "People gathered along a pavement with food.",
+    "variants": [
+      {
+        "file": "photo-archive-087-480.webp",
+        "width": 480,
+        "bytes": 29784
+      },
+      {
+        "file": "photo-archive-087-1280.webp",
+        "width": 1280,
+        "bytes": 113930
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-088": {
+    "source": "605781242_1773859416611194_7137739580878049086_n.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt": "A community member sharing food at a doorway",
+    "caption": "A community member sharing food at a doorway.",
+    "variants": [
+      {
+        "file": "photo-archive-088-480.webp",
+        "width": 480,
+        "bytes": 26074
+      },
+      {
+        "file": "photo-archive-088-1280.webp",
+        "width": 1280,
+        "bytes": 111314
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  },
+  "archive-089": {
+    "source": "615380279_1783358945661241_2208759319847844218_n.jpg",
+    "width": 1600,
+    "height": 900,
+    "alt": "A community member handing food to people beside a public bench",
+    "caption": "A community member handing food to people beside a public bench.",
+    "variants": [
+      {
+        "file": "photo-archive-089-480.webp",
+        "width": 480,
+        "bytes": 20210
+      },
+      {
+        "file": "photo-archive-089-1280.webp",
+        "width": 1280,
+        "bytes": 70572
+      }
+    ],
+    "dateConfirmed": false,
+    "category": "Community outreach"
+  }
+}
